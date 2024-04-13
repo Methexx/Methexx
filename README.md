@@ -1,6 +1,14 @@
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<p align="center" >Working on Something... 🤝</p>
+<p align="center" >Working on Something... </p>
+<h3>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" alt="Handshake"
+            width="80"><br>
+</h3>
+
+
+
+  
 <h1 align="center">Hi 👋, I'm Methex</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
