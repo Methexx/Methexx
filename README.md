@@ -1,17 +1,15 @@
 <h1 align="center">Hi , I'm Methex👋 </h1>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <p align="center" >Working on Something... </p>
-<!--
 
+<!-- ====================================================================================================================== -->
 
--->
 <div align="center">
+  
 <h3>
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" alt="Handshake"
             width="80">
-  
 </h3>
-
 
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
@@ -33,12 +31,10 @@
 <td width="50%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
+</td>
 </tr>
 </table>
-
+<!-- ====================================================================================================================== -->
 <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
 
 <br clear="both">
@@ -68,24 +64,6 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
-
+<!-- ====================================================================================================================== -->
 ###
-<!--  Working on Something... 
 
--->
-
-
-<!--
-**Methexx/Methexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
