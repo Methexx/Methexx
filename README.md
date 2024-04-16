@@ -35,7 +35,7 @@
 
 <!-- ====================================================================================================================== -->
 
-<img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
+<img src="https://komarev.com/ghpvc/?username=Methexx&color=blue" alt="Visitor Count">
 <br clear="both">
 
 <div align="center">
