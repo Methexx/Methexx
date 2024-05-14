@@ -64,6 +64,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+
+<!-- ====================================================================================================================== -->
+
+  [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)
 </div>
 <!-- ====================================================================================================================== -->
 ###
