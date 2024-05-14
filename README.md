@@ -12,6 +12,7 @@
   </h3>
 
   <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+</div>
 <!-- mf -->
 
 <table align="center">
@@ -66,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 
 <!-- ====================================================================================================================== -->
-  [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Methex!;I'm+a++FullStack+Developer;I'm+a+Web+Developer+Too;I+love+Java+and+Javascript+;I+Like+Python+Too)](https://git.io/typing-svg)
+
 
 </div>
 
