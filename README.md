@@ -3,7 +3,7 @@
   <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
   <p align="center" >Working on Something... </p>
 
-<!-- ========================================.......................................  ......=================================================== -->
+<!-- ========================================............................................=================================================== -->
 
 <div align="center">
   
@@ -13,6 +13,7 @@
 
   <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <!-- mf -->
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -26,6 +27,7 @@
   - 📫 How to reach me **methum.edu@gmail.com**
   
   - ⚡ Fun fact **Call me as MD**
+  - 
 </td>
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
