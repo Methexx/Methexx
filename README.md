@@ -10,9 +10,9 @@
   <h3>
     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" alt="Handshake" width="80">
   </h3>
-  <h3>
+  
     [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Methex!;I'm+a++FullStack+Developer;I'm+a+Web+Developer+Too;I+love+Java+and+Javascript+;I+Like+Python+Too)](https://git.io/typing-svg)
-  </h3>
+  
   <h3>
     Passionate IT Student | Exploring the Boundless World of Technology
   </h3>
