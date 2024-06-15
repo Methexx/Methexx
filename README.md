@@ -79,14 +79,16 @@
 <!--[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)> -->
 
 <p align=center>
+ <a href="http://github-readme-streak-stats.herokuapp.com">
+     <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=Methexx&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+  </a>
+  
   <img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="200px"/>
   </p>
  <br>
 
  
-  <a href="http://github-readme-streak-stats.herokuapp.com">
-     <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=Methexx&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-  </a>
+ 
 
   
 </div>
