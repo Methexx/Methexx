@@ -75,6 +75,8 @@
 <br>
      
 <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
+
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)
   
 </div>
 </body>
