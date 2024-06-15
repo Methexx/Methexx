@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<body>
   <h1 align="center">Hi , I'm Methex👋 </h1>
   <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
   <p align="center" >Working on Something... </p>
@@ -42,7 +43,7 @@
 
 <!-- ====================================================================================================================== -->
 
-<img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
+
 <br clear="both">
 
 <div align="center">
@@ -70,10 +71,12 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 
-<!-- ====================================================================================================================== -->
-
+      <!-- ====================================================================================================================== -->
+<img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
   
 </div>
+</body>
+</html>
 
 <!-- ====================================================================================================================== -->
 ###
