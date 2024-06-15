@@ -74,7 +74,7 @@
 <br>
 <br>
      
-<img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
+
 
 <!--[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)> -->
 
@@ -86,7 +86,11 @@
   <img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="200px"/>
   </p>
  <br>
-
+<br>
+<br>
+<br>
+     
+<img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
  
  
 
