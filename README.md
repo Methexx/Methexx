@@ -81,17 +81,13 @@
 <p align=center>
  <a href="http://github-readme-streak-stats.herokuapp.com">
      <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=Methexx&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-  </a>
-  
+ </a>
   <img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="200px"/>
-  </p>
+ </p>
  <br>
-<br>
-<br>
-<br>
-     
-<img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
- 
+ <br>
+ <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
+  
  
 
   
