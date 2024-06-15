@@ -3,7 +3,7 @@
   <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
   <p align="center" >Working on Something... </p>
 
-<!-- ========================================............... ................... ..........=================================================== -->
+<!-- ========================================.........................=================================================== -->
 
 <div align="center">
   
@@ -11,7 +11,8 @@
     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" alt="Handshake" width="80">
   </h3>
   
-    [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)
+    [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)] 
+ (https://git.io/typing-svg)
   
   <h3>
     Passionate IT Student | Exploring the Boundless World of Technology
