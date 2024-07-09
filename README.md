@@ -4,7 +4,7 @@
   <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
   <p align="center" >Working on Something... </p>
 
-<!-- ========================================...............================================================= -->
+<!-- ========================================...............================================================ -->
 
 <div align="center">
   
