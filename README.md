@@ -88,7 +88,7 @@
  <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
  <br>
   <p align="statr">
-    <img src ="https://raw.githubusercontent.com/Methexx/output/github-contribution-grid-snake-dark.svg">
+    <img src ="https://raw.githubusercontent.com/methexx/metheexx/output/github-contribution-grid-snake-dark.svg">
   </p>
   
  
