@@ -89,9 +89,9 @@
  <br>
  <img src="https://komarev.com/ghpvc/?username=Pahasara&color=blue" alt="Visitor Count">
  <br>
-  <p align="statr">
+<!--   <p align="statr">
     <img src ="https://raw.githubusercontent.com/methexx/metheexx/output/github-contribution-grid-snake-dark.svg">
-  </p>
+  </p> -->
   <p align="center" ><img height="150px" width= "160px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /></p>
   <br>
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
