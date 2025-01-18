@@ -25,7 +25,8 @@
 
 ### ⚙️Tools
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,firebase,postman,figma,notion&" alt="Tools" />
-</details>
+
+ </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 <!--</center> -->
 <br><br>
 <div align="center">
