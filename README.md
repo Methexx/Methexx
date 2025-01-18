@@ -20,5 +20,12 @@
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,firebase,postman,figma,notion&" alt="Tools" />
 </details>
 <!--</center> -->
+</h1>
 
+<h3 align="center">
+<img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Machine Learning and Software Engineer <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center">
+<img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Machine Learning, Data Engineering and Software Engineering <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center">
+</h3>
+
+<p align="center">
 
