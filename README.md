@@ -41,3 +41,5 @@
 </div>
 <br>
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+
+<img align="right" alt="Coding" width="250" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif">
