@@ -16,7 +16,7 @@
 <!--<center> -->
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-<img align="right" alt="Coding" width="250" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif">
+<img align="right" alt="Coding" width="550" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif">
 
 ### 📝Languages
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=java,cs,c,html,css,js&" alt="Languages" />
@@ -43,4 +43,4 @@
 <br>
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
-<img align="right" alt="Coding" width="250" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif">
+
