@@ -23,13 +23,11 @@
 
 ### 🏫Frameworks
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=react,selenium,dotnet,bootstrap,tailwindcss&" alt="Frameworks" />
-<br><img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
-
+<br><img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"<br>
 
 ### ⚙️Tools
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,firebase,postman,figma,notion&" alt="Tools" />
-<br><img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"<br>
-
+<br><img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
 
 <!--</center> -->
 <br><br>
