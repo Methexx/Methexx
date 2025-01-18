@@ -26,10 +26,10 @@
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"<br>
 
 ### ⚙️Tools
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,firebase,postman,figma,notion&" alt="Tools" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,postman,figma,notion&" alt="Tools" />
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
 
-<!--</center> -->
+
 <br><br>
 <div align="center">
   <p>
