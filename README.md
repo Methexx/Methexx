@@ -8,7 +8,7 @@
 </p >
 <img align="right" alt="Code" width="550" src="https://www.digisailor.com/assets/img/services-details/5.gif">
 
-<center>
+<!--<center> -->
 ### Languages
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=java,cs,c,html,css,js&" alt="Languages" />
 
@@ -18,6 +18,6 @@
 ### Tools
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,firebase,postman,figma,notion&" alt="Tools" />
 </details>
-</center>
+<!--</center> -->
 ---
-[![](https://visitcount.itsvg.in/api?id=ghsenu&icon=0&color=0)](https://visitcount.itsvg.in)
+
