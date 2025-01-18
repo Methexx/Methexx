@@ -7,3 +7,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=20C20E&center=true&vCenter=true&width=1200&height=45&lines=Undergraduate+in+BSc+(Hons)+Software+Engineering;NSBM+Green+University+(Plymouth)">
 </p >
 <img align="right" alt="Code" width="550" src="https://www.digisailor.com/assets/img/services-details/5.gif">
+
+<center>
+### Languages
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=java,cs,c,html,css,js&" alt="Languages" />
+
+### Frameworks
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react,selenium,dotnet,bootstrap,tailwindcss&" alt="Frameworks" />
+
+### Tools
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,firebase,postman,figma,notion&" alt="Tools" />
+</details>
+</center>
+---
+[![](https://visitcount.itsvg.in/api?id=ghsenu&icon=0&color=0)](https://visitcount.itsvg.in)
