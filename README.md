@@ -17,17 +17,17 @@
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
-### Languages
+### 📝Languages
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=java,cs,c,html,css,js&" alt="Languages" />
 
-### Frameworks
+### 🏫Frameworks
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=react,selenium,dotnet,bootstrap,tailwindcss&" alt="Frameworks" />
 
-### Tools
+### ⚙️Tools
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,firebase,postman,figma,notion&" alt="Tools" />
 </details>
 <!--</center> -->
-
+<br>
 <div align="center">
   <p>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU2NTBqZjltdGU0NXhvczlla3Vsd3BmcnYzcG04eHA5MXV4MGNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdWuHK4952QBq/giphy.gif" height="300">
