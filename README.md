@@ -9,7 +9,7 @@
 <img align="right" alt="Code" width="550" src="https://www.digisailor.com/assets/img/services-details/5.gif">
 
 <!--<center> -->
-<p align="center">
+
 ### Languages
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=java,cs,c,html,css,js&" alt="Languages" />
 
@@ -20,5 +20,5 @@
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,firebase,postman,figma,notion&" alt="Tools" />
 </details>
 <!--</center> -->
-</p>
+
 
