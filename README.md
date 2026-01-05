@@ -109,7 +109,7 @@
   <p>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU2NTBqZjltdGU0NXhvczlla3Vsd3BmcnYzcG04eHA5MXV4MGNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdWuHK4952QBq/giphy.gif" height="300">
     <a href="https://open.spotify.com/user/31r3tz3s65cwvwypi3mfr46zkztm">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r3tz3s65cwvwypi3mfr46zkztm&count=5" alt="Spotify recently played" height="300">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r3tz3s65cwvwypi3mfr46zkztm&count=5" alt="Spotify recently played" height="200">
     </a>
   </p>
 </div>
