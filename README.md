@@ -115,9 +115,7 @@
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Methexx&color=blue&style=flat-square" alt="Profile views"/>
-</p>
+
 
   
 </div>
