@@ -1,4 +1,4 @@
-﻿<!-- markdownlint-disable MD033 MD041 -->
+  ﻿<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
   
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" alt="About Me GIF" />
