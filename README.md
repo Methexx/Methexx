@@ -7,7 +7,7 @@
   <p><b>Passionate IT Student | Exploring the Boundless World of Technology</b></p>
   <p><i>Working on Something...</i></p>
  
-</div>
+</div> 
  
 <br />
  
