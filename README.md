@@ -1,10 +1,10 @@
   ﻿<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
   
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" alt="About Me GIF" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" alt="About Me GIF" /> 
   
   <h1>Hi, I'm Methex 👋</h1>
-  <p><b>Passionate IT Student | Exploring the Boundless World of Technology</b></p>
+  <p><b>Passionate IT Student | Exploring the Boundless World of Technology</b></p> 
   <p><i>Working on Something...</i></p>
  
 </div> 
