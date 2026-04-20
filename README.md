@@ -10,7 +10,7 @@
 </div> 
   
 <br />
- 
+  
 ## 🚀 About Me
 
 <table align="center" style="border: none;">
